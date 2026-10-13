@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1517,60:17302F,100:F2B544&height=190&section=header&text=Khushi%20Digarse&fontColor=E9E5D9&fontSize=58&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20ETL%20%E2%80%A2%20BI%20%E2%80%A2%20LLM%20Automation&descSize=17&descAlignY=60" width="100%" alt="Khushi Digarse, Data Analyst" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1517,55:17302F,100:F2B544&height=140&section=header" width="100%" alt="" />
+
+<h1 align="center">Khushi Digarse</h1>
+<p align="center"><b>Data Analyst</b> &nbsp;|&nbsp; ETL pipelines &nbsp;|&nbsp; BI dashboards &nbsp;|&nbsp; LLM automation</p>
 
 <p align="center">
   <a href="mailto:khushi.p19467503@gmail.com"><img src="https://img.shields.io/badge/Email-khushi.p19467503%40gmail.com-0A1517?style=for-the-badge&logo=gmail&logoColor=F2B544" alt="Email" /></a>
